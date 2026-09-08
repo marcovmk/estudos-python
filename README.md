@@ -3,8 +3,6 @@ Minha jornada de estudos em Python, baseada no livro Pense em Python, de Allen B
 
 📚 Conteúdo
 Capítulo 1 — A jornada do programa
-Capítulo 2 — Variáveis, expressões e instruções
-Capítulo 3 — Funções
 
 🎯 Objetivo
 Construir uma base sólida em Python através de estudos, exercícios e projetos práticos.
